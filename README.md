@@ -1,9 +1,6 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Jayesh, a Big data Engineer 👨‍💻 </div>  
+
+### <div align="center">I'm Jayesh, a data Engineer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on Twitter Sentiment Analytics  
