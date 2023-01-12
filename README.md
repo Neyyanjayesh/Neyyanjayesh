@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://acegif.com/wp-content/uploads/2022/hqgif/blue-lock-6.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
