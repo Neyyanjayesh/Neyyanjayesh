@@ -1,4 +1,7 @@
-
+<div align="center">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f489642-f985-4bec-855e-69190057e829_1024x1024.png" align="center" style="width: 100%" />
+</div>  
+  
 
 ### <div align="center">I'm Jayesh, a data Engineer 👨‍💻 </div>  
   
