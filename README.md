@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jayesh, a data Engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Twitter Sentiment Analytics  
+- 🔭 I’m currently working on Fixitup4u Home services App ( May-06-2024)  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🌱 I’m currently learning Azure Cloud Services  
   
 
 - ❓ Ask me about anything related to Big data and related technologies  
